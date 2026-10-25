@@ -1,4 +1,4 @@
-# Lab 11 Git Project - Main Version
+# Lab 11 Git Project
 
 A small project for CS-117 Lab 11 to practise Git and GitHub.
 
